@@ -1,0 +1,37 @@
+/* External CSS */
+
+body{
+    background-color: #D5FFD0;
+}
+
+.image1{
+    height: 600px;
+    width: 700px;
+}
+
+table{
+    background-color: gold;
+    text-align: center;
+    text-justify: auto;
+    color: blue;
+    border-color: #265999;
+    border-style: double;
+    border-collapse: separate;
+   
+}
+
+.style1{
+    color: darksalmon;
+}
+
+.fs{
+    color: grey;
+}
+
+.bdy{
+    background-color: #dabbbb;
+}
+
+.head{
+    color: gold;
+}
